@@ -1,1 +1,2 @@
-# cs-major
+# UWaterloo CS Major Requirements
+
