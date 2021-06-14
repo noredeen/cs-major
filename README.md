@@ -23,22 +23,21 @@
 ### Breadth
 
 #### 1 unit _humanities_:
-- [x] MUSIC 111
-- [x] ENGL 108D
+- [x] **MUSIC 111**
+- [x] **ENGL 108D**
 
 #### 1 unit _social sciences_:
-- [x] ECON 101
-- [x] ECON AP Credit
- + ECON 344 ??
+- [x] **ECON 101**
+- [x] **ECON AP Credit**
 
 #### 0.5 unit _purse science_
-- [x] PHYS AP Credit
+- [x] **PHYS AP Credit**
 
-#### 0.5 unit _pure or applied science_
+#### 0.5 unit _pure (or applied) science_
 - [ ] _TODO_
 
 ### Depth
-#### 1.5 unites
-- [ ] _TODO_
-- [ ] _TODO_
-- [ ] _TODO_
+#### 1.5 units
+- [x] **MUSIC 111**
+- [ ] MUSIC 246: Soundtracks: Music in Film
+- [ ] MUSIC 3xx
