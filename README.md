@@ -3,8 +3,8 @@
 ### CS
 - [x] **CS 145**
 - [x] **CS 146**
-- [ ] CS 245: Logic and Computation
-- [ ] CS 246E: Object-oriented Software Development (Enriched)
+- [x] CS 245: Logic and Computation
+- [x] CS 246E: Object-oriented Software Development (Enriched)
 - [ ] CS 241E: Foundations of Sequential Programs (Enriched)
 - [ ] CS 240: Data Structures and Data Management
 - [ ] CS 251: Computer Organization and Design
@@ -16,7 +16,7 @@
 - [x] **MATH 136**
 - [x] **MATH 137**
 - [x] **MATH 138**
-- [ ] STAT 230: Probability
+- [x] STAT 230: Probability
 - [ ] MATH 239: Introduction to Combinatorics
 - [ ] STAT 231: Statistics
 
@@ -34,10 +34,10 @@
 - [x] **PHYS AP Credit**
 
 #### 0.5 unit _pure (or applied) science_
-- [ ] PLAN 100
+- [x] PLAN 100: The Evolution of Planning
 
 ### Depth
 #### 1.5 units
 - [x] **MUSIC 111**
-- [ ] MUSIC 255: The Romantic Century: Beethoven and Beyond
+- [x] MUSIC 255: The Romantic Century: Beethoven and Beyond
 - [ ] MUSIC 3xx
