@@ -34,10 +34,10 @@
 - [x] **PHYS AP Credit**
 
 #### 0.5 unit _pure (or applied) science_
-- [ ] _TODO_
+- [ ] PLAN 100
 
 ### Depth
 #### 1.5 units
 - [x] **MUSIC 111**
-- [ ] MUSIC 246: Soundtracks: Music in Film
+- [ ] MUSIC 255: The Romantic Century: Beethoven and Beyond
 - [ ] MUSIC 3xx
