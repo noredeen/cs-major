@@ -10,6 +10,8 @@
 - [ ] CS 251: Computer Organization and Design
 - [ ] CS 341: Algorithms
 - [ ] CS 350: Operating Systems
+- [ ] CS 360: Introduction to the Theory of Compuatation (or CS 365)
+- [ ] CS 444: Compiler Construction
 
 ### MATH, STAT, & CO
 - [x] **MATH 135**
@@ -40,4 +42,20 @@
 #### 1.5 units
 - [x] **MUSIC 111**
 - [x] **MUSIC 246: Soundtrack in Film**
-- [ ] MUSIC 3xx
+- [ ] MUSIC 333
+
+## 2B
+
+- [ ] CS 251
+- [ ] CS 240
+- [ ] MATH 239
+- [ ] MUSIC 333
+- [ ] SCI 206
+
+## 3A
+
+- [ ] CS 341
+- [ ] CS 350
+- [ ] STAT 231
+- [ ] ???
+- [ ] ???
