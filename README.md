@@ -6,7 +6,7 @@
 - [x] **CS 245: Logic and Computation**
 - [x] **CS 246E: Object-oriented Software Development (Enriched)**
 - [x] **CS 241E: Foundations of Sequential Programs (Enriched)**
-- [ ] CS 240: Data Structures and Data Management
+- [ ] CS 240E: Data Structures and Data Management
 - [ ] CS 251: Computer Organization and Design
 - [ ] CS 341: Algorithms
 - [ ] CS 350: Operating Systems
@@ -36,7 +36,7 @@
 - [x] **PHYS AP Credit**
 
 #### 0.5 unit _pure (or applied) science_
-- [ ] TODO
+- [ ] SCI 206
 
 ### Depth
 #### 1.5 units
@@ -47,10 +47,10 @@
 ## 2B
 
 - [ ] CS 251
-- [ ] CS 240
+- [ ] CS 240E
 - [ ] MATH 239
-- [ ] MUSIC 333
-- [ ] SCI 206
+- [ ] ???
+- [ ] SCI 206?
 
 ## 3A
 
