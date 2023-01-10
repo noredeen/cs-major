@@ -6,12 +6,17 @@
 - [x] **CS 245: Logic and Computation**
 - [x] **CS 246E: Object-oriented Software Development (Enriched)**
 - [x] **CS 241E: Foundations of Sequential Programs (Enriched)**
-- [x] CS 240: Data Structures and Data Management
-- [x] CS 251: Computer Organization and Design
+- [x] **CS 240: Data Structures and Data Management**
+- [x] **CS 251: Computer Organization and Design**
 - [ ] CS 341: Algorithms
 - [ ] CS 350: Operating Systems
-- [ ] CS 360: Introduction to the Theory of Compuatation (or CS 365)
+
+- [ ] CS 348: Introduction to Databasae Management
+- [ ] CS 360/365: Compuatation
 - [ ] CS 444: Compiler Construction
+- [ ] CS 450: Computer Networks
+- [ ] CS 462: Formal Languages and Parsing
+- [ ] CS 4xx
 
 ### MATH, STAT, & CO
 - [x] **MATH 135**
@@ -46,15 +51,21 @@
 
 ## 2B
 
-- CS 251
-- CS 240
-- MATH 239
-- MNS 101
-- MUSIC 364
+- [x] CS 251
+- [x] CS 240
+- [x] MATH 239
+- [x] MNS 101
+- [x] MUSIC 364
 
 ## 3A
 
-- CS 341
-- CS 350
-- STAT 231
-- ???
+- [] CS 341
+- [] CS 350
+- [] STAT 231
+- [] CS 348
+
+## 3B
+
+- [] CS 360/365
+- [] CS 370
+- [] CS 343
