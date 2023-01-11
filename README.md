@@ -11,6 +11,7 @@
 - [ ] CS 341: Algorithms
 - [ ] CS 350: Operating Systems
 
+
 - [ ] CS 348: Introduction to Databasae Management
 - [ ] CS 360/365: Compuatation
 - [ ] CS 444: Compiler Construction
@@ -66,4 +67,6 @@
 ## 3B
 
 - [ ] CS 360/365
-- [ ] CS 343
+- [ ] CS 4xx
+- [ ] CS 4xx
+- [ ] CS 4xx
