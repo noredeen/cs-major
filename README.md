@@ -24,14 +24,14 @@
 - [x] **MATH 137**
 - [x] **MATH 138**
 - [x] **STAT 230: Probability**
-- [x] MATH 239: Introduction to Combinatorics
+- [x] **MATH 239: Introduction to Combinatorics**
 - [ ] STAT 231: Statistics
 
 ### Breadth
 
 #### 1 unit _humanities_:
 - [x] **MUSIC 111**
-- [x] **ENGL 108D**
+- [x] **ENGL 108D: Digital Lives**
 
 #### 1 unit _social sciences_:
 - [x] **ECON 101**
@@ -41,14 +41,13 @@
 - [x] **PHYS AP Credit**
 
 #### 0.5 unit _pure (or applied) science_
-- [x] MNS 101
+- [x] **MNS 101: Materials and Nanosciences in the Modern World**
 
 ### Depth
 #### 1.5 units
 - [x] **MUSIC 111**
 - [x] **MUSIC 246: Soundtrack in Film**
-- [x] MUSIC 333
-
+- [x] **MUSIC 364: Worship and its Music**
 ## 2B
 
 - [x] CS 251
@@ -59,13 +58,12 @@
 
 ## 3A
 
-- [] CS 341
-- [] CS 350
-- [] STAT 231
-- [] CS 348
+- [ ] CS 341
+- [ ] CS 350
+- [ ] STAT 231
+- [ ] CS 348
 
 ## 3B
 
-- [] CS 360/365
-- [] CS 370
-- [] CS 343
+- [ ] CS 360/365
+- [ ] CS 343
