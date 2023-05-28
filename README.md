@@ -8,16 +8,15 @@
 - [x] **CS 241E: Foundations of Sequential Programs (Enriched)**
 - [x] **CS 240: Data Structures and Data Management**
 - [x] **CS 251: Computer Organization and Design**
-- [ ] CS 341: Algorithms
-- [ ] CS 350: Operating Systems
+- [x] **CS 341: Algorithms**
+- [x] **CS 350: Operating Systems**
 
-
-- [ ] CS 348: Introduction to Databasae Management
-- [ ] CS 360/365: Compuatation
+- [x] **CS 348: Introduction to Databasae Management**
+- [ ] CS 360/365: Introduction to the Theory of Compuatation
 - [ ] CS 444: Compiler Construction
-- [ ] CS 450: Computer Networks
+- [ ] CS 456: Computer Networks
 - [ ] CS 462: Formal Languages and Parsing
-- [ ] CS 4xx
+- [ ] CS 454: Distributed Systems
 
 ### MATH, STAT, & CO
 - [x] **MATH 135**
@@ -26,7 +25,7 @@
 - [x] **MATH 138**
 - [x] **STAT 230: Probability**
 - [x] **MATH 239: Introduction to Combinatorics**
-- [ ] STAT 231: Statistics
+- [x] **STAT 231: Statistics**
 
 ### Breadth
 
@@ -49,6 +48,7 @@
 - [x] **MUSIC 111**
 - [x] **MUSIC 246: Soundtrack in Film**
 - [x] **MUSIC 364: Worship and its Music**
+
 ## 2B
 
 - [x] CS 251
@@ -59,14 +59,15 @@
 
 ## 3A
 
-- [ ] CS 341
-- [ ] CS 350
-- [ ] STAT 231
-- [ ] CS 348
+- [x] CS 341
+- [x] CS 350
+- [x] STAT 231
+- [x] CS 348
 
 ## 3B
 
 - [ ] CS 360/365
-- [ ] CS 4xx
-- [ ] CS 4xx
-- [ ] CS 4xx
+- [ ] CS 456
+- [ ] CS 454
+- [ ] MUSIC 270
+
