@@ -31,7 +31,7 @@
 
 #### 1 unit _humanities_:
 - [x] **MUSIC 111**
-- [x] **ENGL 108D: Digital Lives**
+- [x] **ENGL 108D: Digital Lives** (List 2)
 
 #### 1 unit _social sciences_:
 - [x] **ECON 101**
@@ -45,7 +45,7 @@
 
 ### Depth
 #### 1.5 units
-- [x] **MUSIC 111**
+- [x] **MUSIC 111: Fundamentals of Music Theory**
 - [x] **MUSIC 246: Soundtrack in Film**
 - [x] **MUSIC 364: Worship and its Music**
 
